@@ -1,0 +1,17 @@
+oem_devinfo.ko
+tcpc_rt1711h.ko
+aw35616.ko
+husb320.ko
+aw35615.ko
+mtk_pep50.ko
+oem_turbo_charger.ko
+z350.ko
+sc89890h.ko
+sgm41542.ko
+sc8541.ko
+nu2115.ko
+panel-hx83112b-auo-cmd-60hz-rt5081.ko
+panel-td4320-fhdp-dsi-vdo-auo-rt5081.ko
+panel-sc-nt36672c-vdo-90hz-6382.ko
+panel-boe-ili9883c-vdo.ko
+panel-djin-ft8057s-vdo.ko

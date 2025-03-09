@@ -1,0 +1,9 @@
+snd-soc-aw87xxx.ko
+oem_charger_led.ko
+oem_aw9610x.ko
+fpc_fingerprint.ko
+flashlights-aw36506.ko
+tp_ilitek.ko
+tp_focaltech.ko
+oem_antdet.ko
+pn553_i2c.ko
